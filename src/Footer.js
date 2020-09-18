@@ -5,7 +5,7 @@ const Footer = () => {
     
 
     return (
-        <div style={{background:'rgba(189,200,122,0.8)',
+        <div style={{
         marginTop:'10px',textAlign:'center',
         alignItems:'center',justifyContent:'center',
         width:'100%',marginBottom:'5px'}}>
